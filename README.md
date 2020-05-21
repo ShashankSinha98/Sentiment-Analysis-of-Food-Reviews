@@ -5,7 +5,7 @@ Built and trained RNN model on Amazon food review dataset. Model was trained on 
 - Training Accuracy = ~93 %
 - Testing Accuracy = ~91 %
 
-tf.Keras model was then converted into tflite model. Then, it was used inside Android Application to perform the food review classification inside app.
+tf.Keras model was converted into tflite model. Then, it was used inside Android Application to perform the food review classification inside app.
 
 ## Screenshots of application - 
 
